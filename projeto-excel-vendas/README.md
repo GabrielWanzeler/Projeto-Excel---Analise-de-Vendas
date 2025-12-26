@@ -24,7 +24,7 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 
 ## Ferramentas
 
-*Excel (Tabelas, tabelas dinâmicas, gráficos, gráficos dinâmicos, estatística descritiva)
+Excel (Tabelas, tabelas dinâmicas, gráficos, gráficos dinâmicos, estatística descritiva)
 
 
 
@@ -162,4 +162,5 @@ Algumas visualizações usam tabelas dinâmicas e respondem segmentações aplic
 * Uma pequena parcela dos produtos concentram a maior parte das vendas;
 * A maior parte dos pedidos ocorre em faixas de menor valor;
 * As categorias diferem no volume de vendas, na variabilidade e na dispersão dos valores.
+
 
