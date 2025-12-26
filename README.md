@@ -34,7 +34,7 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 
 
 ## Estrutura do Projeto
-
+```
 projeto-excel-vendas/
 
 │
@@ -50,7 +50,7 @@ projeto-excel-vendas/
 │   └── Relatorio\_Final
 
 └── README.md 
-
+```
 
 
 ### O arquivo xlsx contém as planilhas
@@ -168,4 +168,5 @@ Algumas visualizações usam tabelas dinâmicas e respondem segmentações aplic
 * Uma pequena parcela dos produtos concentram a maior parte das vendas
 * A maior parte dos pedidos ocorre em faixas de menor valor.
 * As categorias diferem no volume de vendas, na variabilidade e na dispersão dos valores.
+
 
