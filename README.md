@@ -24,8 +24,7 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 
 ## Ferramentas
 
-*Excel (Tabelas, tabelas dinâmicas, gráficos, gráficos dinâmicos, estatística descritiva)
-*GitHub
+Excel (Tabelas, tabelas dinâmicas, gráficos, gráficos dinâmicos, estatística descritiva)
 
 
 
@@ -38,17 +37,12 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 projeto-excel-vendas/
 
 │
-
 ├── superstore.xlsx
-
 │   ├── Banco\_de\_Dados
-
 │   ├── Analise\_Descritiva
-
 │   ├── Analise\_Pivot
-
 │   └── Relatorio\_Final
-
+│
 └── README.md 
 ```
 
@@ -143,16 +137,16 @@ Descrição: Apresenta a participação percentual de cada categoria no total de
 
 As visualizações dinâmicas permitem ser segmentadas por:
 
-* Segmento de cliente
-* Região
-* Categoria
+* Segmento de cliente;
+* Região;
+* Categoria;
   Isto permite análise em diferentes recortes.
 
 
 
 ### Observações pertinentes
 
-Algumas visualizações usam tabelas dinâmicas e respondem segmentações aplicadas. Outras (como distribuições e relações estatísticas) são baseadas em dados completos para preservar a granularidade e interpretação estatística
+Algumas visualizações usam tabelas dinâmicas e respondem segmentações aplicadas. Outras (como distribuições e relações estatísticas) são baseadas em dados completos para preservar a granularidade e interpretação estatística.
 
 
 
@@ -162,11 +156,10 @@ Algumas visualizações usam tabelas dinâmicas e respondem segmentações aplic
 
 ## Principais Insights
 
-* Vendas apresentam relevantes variações ao longo dos meses, com diferenças anuais. Sendo seus principais picos em Setembro e Novembro.
-* Diferenças significativas no valor das vendas por categoria
-* Os principais produtos que concentram grande parte das vendas
-* Uma pequena parcela dos produtos concentram a maior parte das vendas
-* A maior parte dos pedidos ocorre em faixas de menor valor.
+* Vendas apresentam relevantes variações ao longo dos meses, com diferenças anuais. Sendo seus principais picos em Setembro e Novembro;
+* Diferenças significativas no valor das vendas por categoria;
+* Os principais produtos que concentram grande parte das vendas;
+* Uma pequena parcela dos produtos concentram a maior parte das vendas;
+* A maior parte dos pedidos ocorre em faixas de menor valor;
 * As categorias diferem no volume de vendas, na variabilidade e na dispersão dos valores.
-
 
